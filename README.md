@@ -1,6 +1,6 @@
 # Script de Inyección Automática de Horas en QBID ⌚✔️ 
 
-Este JavaScript permite la inyección automática de horas en el sistema [QBID](https://www.empresaiformacio.org/sBid). Está diseñado para facilitar el proceso de rellenar horas de estudiantes en una interfaz web, optimizando la interacción del usuario.
+[Este JavaScript](./auto-fill-qbid.js) permite la inyección automática de horas en el sistema [QBID](https://www.empresaiformacio.org/sBid). Está diseñado para facilitar el proceso de rellenar horas de estudiantes en una interfaz web, optimizando la interacción del usuario.
 
 ## 📄 Características 
 
